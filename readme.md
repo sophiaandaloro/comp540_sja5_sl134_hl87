@@ -1,4 +1,4 @@
-# Code Bundel for 2020 COMP 540 term project
+# Code Bundle for 2020 COMP 540 term project
 
 ### Sophia Andaloro, Shixiao Liang, Hongyi Liu
 ### comp540_sja5_sl134_hl87
