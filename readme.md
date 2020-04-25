@@ -15,3 +15,5 @@ ensemble_prepare.ipynb loads these models and produce auxiliary predictions. We 
 ensemble.ipynb loads files in ./predictions and produce submission.csv. If files in ./predictions were not modified, whis notebook should produce a file identicle to our final kaggle submission.
 
 res.py contains our implementation of a hidden Gaussian layer, which we moved around and tried to implement before deciding to set to zero for our final model submission (and thus returning to the keras-made API for final training.) This is just to show how we introduced such a layer.
+
+making_plots.ipynb just has some aux images for how we got our analyses, it does not have to be read or run for the code to work.
