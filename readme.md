@@ -1,7 +1,7 @@
-Code Bundel for 2020 COMP 540 term project
+# Code Bundel for 2020 COMP 540 term project
 
---Sophia Andaloro, Shixiao Liang, Hongyi Liu
-comp540_sja5_sl134_hl87
+### Sophia Andaloro, Shixiao Liang, Hongyi Liu
+### comp540_sja5_sl134_hl87
 
 This bundle includes 3 notebooks and 3 folders and 1 py file. The notebooks reflects how we trained models and make final submissions but our result cannot be produced by running these notebooks. We put our models and auxiliary file in the folders.
 
